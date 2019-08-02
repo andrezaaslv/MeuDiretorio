@@ -1,0 +1,1 @@
+print (" sou andreza quero ir para casa")
